@@ -14,7 +14,7 @@ This project helped me practice **Bootstrap 5**, **CSS styling**, and building a
 
 ## 🔗 Live Demo
 
-- 👉 [Live Site on Vercel](https://your-live-site-url.com)  
+- 👉 [Live Site on Vercel](https://product-card-ashy-six.vercel.app/)  
 - 👉 [Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa)
 
 ---
@@ -59,6 +59,6 @@ This small challenge helped me strengthen my fundamentals in **frontend styling*
 ## 👨‍💻 Author
 
 - GitHub – [Dawood Ahmed](https://github.com/dawood125)  
-- Frontend Mentor – [@your-username](https://www.frontendmentor.io/profile/dawood125)  
+- Frontend Mentor – [@Dawood Ahmed](https://www.frontendmentor.io/profile/dawood125)  
 
 ---
